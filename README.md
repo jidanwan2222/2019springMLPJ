@@ -2,7 +2,7 @@
 There are few projects to help me learning ML.
 The project is assigned by https://github.com/sdrangan/introml, He is an intelligent teacher in NYU.
 # index
-1. lab_robot_calib_partial  for multi-linear regression
+1. lab_robot_calib_partial  for multi-linear regression with exp1.csv exp2.csv
 2. lab_neural_partial       for model selection
 3. lab_eeg_partial          for lasso(L1 L2 norm)
 4. lab_gene_partial         for logistic regression
